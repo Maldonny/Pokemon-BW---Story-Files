@@ -1,0 +1,70 @@
+Cheren: \xf000Ā\x0001\x0000\xf000븁\x0000Está aqui uma prenda da Professora\xfffeAraragi\xf000븁\x0000
+A Bel está atrasada outra vez?\xf000븁\x0000
+Bel: Bem, Desculpem-me se cheguei\xfffeum bocado atrasada...\xf000븁\x0000
+Cheren: Ei,　Bel\xf000븁\x0000Despacha-te lá\xf000븁\x0000A Professor Araragi deu-nos uma caixa .\xfffeAcho que está um Pokémon dentro dela!\xf000븁\x0000
+Bel: Hum, estou aqui, desculpem-me.\xf000븁\x0000
+Bel: Onde estão os Pokémon?\xf000븁\x0000\xf000Ā\x0001\x0000, eu quero mesmo ver o que\xfffeestá dentro da caixa!\xf000븁\x0000
+Cheren: Eu também!\xf000븁\x0000
+Dentro da caixa, estão Pokémon\xfffeà nossa espera.\xf000븁\x0000\xf000Ā\x0001\x0000\xfffe,por favor abre o presente.\xf000븀\x0000Eu também quero ter um Pokémon só meu!
+Cheren: Hey...!\xfffeNão te vás embora sem o Pokémon!\xf000븁\x0000
+Cheren: A prenda...\xfffeE tu ainda não a abriste?\xf000븁\x0000Os nossos Pokémon!\xfffeEu quero vê-los.
+Bel: Hey, que tipo de Pokémon\xfffevão escolher...?
+\xf000Ā\x0001\x0000\xfffeabriu o presente!\xf000븁\x0000
+Há 3 pokémons vindos\xfffecom esta carta, cada\xfffeum escolhe o seu!\xfffeAté Breve!\xfffe\xfffe\xfffe　　　　　　　　　　　　Araragi
+Pokémon de Fogo\xfffe\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000 está no interior.\xf000븁\x0000Escolher este pokemon?
+Pokémon de Erva\xfffe\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000 está no interior.\xf000븁\x0000Escolher este pokemon?
+Pokémon de Água\xfffe\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000 está no interior.\xf000븁\x0000Escolher este pokemon?
+\xf000봂\x0000Pokémon de Água\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
+\xf000봂\x0000Pokémon de Fogo\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
+\xf000봂\x0000Pokémon de Erva\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
+Escolhe o teu Pokémon.
+Queres mesmo este Pokémon?
+Eu quero este!
+Sim
+Não
+\xf000Ā\x0001\x0000 recebeu o \xfffe\xf000ā\x0001\x0001!
+Bel: Wow!\xfffeÉ um Pokémon mesmo fixe!\xf000븀\x0000Cheren, escolhe um também!\xf000븁\x0000
+Cheren: Hmmmm...\xfffeQue Pokémon devo escolher?\xf000븁\x0000Vou escolher o \xf000ā\x0001\x0001!\xfffeEste é um dos mais fortes!\xf000븁\x0000
+Bel: Bem... Está na hora de fazer uma\xfffeBatalha! Sim é uma boa ideia!\xf000븁\x0000Vamos lá!\xfffeVamos fazer uma Batalha!\xf000븁\x0000
+Cheren: Bel, já fizeste alguma Batalha?\xf000븁\x0000Deves habituar-te ao teu Pokémon\xfffeantes de batalhares!\xf000븁\x0000
+Bel: Mas tu adepto do:\xfffe"A melhor forma de aprender é fazendo!"\xf000븀\x0000Por isso... Esta é a melhor forma!\xf000븁\x0000Vamos lá　\xf000Ā\x0001\x0000！\xfffeVamos batalhar!\xf000븁\x0000
+Heyy!\xfffeVamos a uma batalha Pokémon!\xf000븁\x0000Quando estiveres pronto, \xf000Ā\x0001\x0000,\xfffevem falar comigo!
+...A caixa está vazia.
+Cheren: Hum... está bem.\xfffeBatalhas comigo?\xf000븁\x0000Eu nem tenho a certeza do porque,\xfffemas simplesmente ao usar o meu\xf000븀\x0000Pokémon enche-me logo de emoção!\xf000븁\x0000
+Bel: Para onde estás a ir?\xfffeVamos, luta comigo!\xf000븁\x0000
+Bel: Heyy!\xfffePronto para a batalha Pokémon?\xf000븁\x0000
+YAAAY!\xfffeOk, VAMOS LÁ!!\xf000븁\x0000
+Whaaa?!\xfffeMeu deus, não sejas assim!\xf000븀\x0000Tu poderias reconsiderar?!\xf000븁\x0000Tu só tens o teu\xfffePRÓPRIO POKÉMON!\xf000븀\x0000Ele é todo teu!\xf000븀\x0000Que pateta, tu precisas de LUTAR!!
+Bel: Oops...!\xf000븁\x0000\xf000Ā\x0001\x0000, desculpa esta\xfffeconfusão!!\xf000븁\x0000Eu limpo isto mais tarde!\xf000븁\x0000
+Bel: Oops...!\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeDesculpa por esta confusão!\xf000븀\x0000Não te importas?\xf000븁\x0000Bem,está bem, mas desculpa outra vez...\xfffeEu limpo isto mais tarde!\xf000븁\x0000
+Cheren: Bel, olha-me o que fizeste!\xfffeTu não cresces?\xf000븁\x0000
+Bel: Wow! Está pior do que eu\xfffepensava!\xf000븁\x0000
+Bem, combater é mesmo fixe!\xfffeEu vou-me habituando!\xf000븁\x0000Eu vou ser a melhor treinadora Pokémon\xfffeque o mundo alguma vez conheceu!\xf000븁\x0000Desculpem-me estou a ficar toda\xfffeentusiamada.\xf000븁\x0000
+Cheren: Bem, os vossos Pokémon ficaram\xfffeferidos após o combate!\xf000븁\x0000É melhor ir curá-los. Curem sempre os\xfffevossos Pokémon!\xf000븁\x0000
+Cheren curou o Pokemon da　Bel!\xfffeEstá melhor e saudável!
+\xf000Ā\x0001\x0000, Vou também curar o teu \xfffePokémon...\xf000븁\x0000
+Cheren curou o Pokemon do \xf000Ā\x0001\x0000!\xfffeEstá melhor e saudável!
+Cheren: Uma vitória conseguida sem\xfffereduzir o HP do Pokémon ... incrivel!\xf000븁\x0000Pelo contrário, foi porque\xfffeacabou o PP do Pokémon...\xf000븁\x0000
+Bel: Hey! Cheren, porque não\xfffecombates também?\xf000븁\x0000É muito divertido!\xfffeEntão... Vais combater?\xf000븀\x0000Pensa no divertido que é!\xf000븁\x0000
+Cheren: Ok...!\xf000븁\x0000É bom para testar as minhas leituras!\xfffeOkay, vou combater!\xf000븀\x0000Vou combater também!\xf000븁\x0000Se dizes que combater é divertido,\xfffeentão por que não experimentar?\xf000븀\x0000Não tenho nada a perder!\xf000븁\x0000
+\xf000Ā\x0001\x0000...\xf000븁\x0000Eu juro que não vou destruir ao quarto,\xfffeentão, vais batalhar comigo?\xf000븀\x0000Fala comigo quando estiveres pronto.
+Cheren: Hey!\xf000븁\x0000
+Bel: Eu, eu quero ver o \xf000Ā\x0001\x0000\xfffee Cheren lhe mande no Pokémon!
+Cheren: Pergunto-me?\xfffeVais lutar comigo a serio?
+Bem, vamos começar...\xfffeTenho que admitir, estou um bocado nervoso!\xf000븁\x0000Por isso se perder, é isso!\xfffeSim, de estar nervoso...!\xf000븁\x0000Bem, vamos lá!\xfffeBoa Sorte \xf000ā\x0001\x0001, Espero que ganhes！\xf000븁\x0000
+Cheren: Ves...?\xfffeCombater com um Pokemon da-te uma ligação.\xf000븁\x0000Essa ligação é importante...\xfffeVai te ajudar a vencer!\xf000븁\x0000Mas também...\xfffeCombater a serio é divertido!\xf000븀\x0000Tinhas razão Bel...\xf000븁\x0000
+Cheren: Ves...?\xfffeCombater com um Pokemon da-te uma ligação.\xf000븁\x0000Essa ligação é importante...\xfffeVai te ajudar a vencer!\xf000븁\x0000Mas também...\xfffeCombater a serio é divertido!\xf000븀\x0000Tinhas razão Bel...\xf000븁\x0000
+Cheren: Esta intensa emoção...\xfffeeu finalmente tornei-me um treinador!\xf000븁\x0000...Eu acho que vamos ter que pedir\xfffedesculpas á tua mãe pelo estado que\xf000븀\x0000deixamos o teu quarto.\xf000븁\x0000
+Bel: Bem... Onde estão as maneiras...\xfffeVamos lá para baixo!!!\xf000븁\x0000Oh espera, Eu sei porque ele é tão farto!\xfffeEle não pode toma-lo como certo!\xf000븁\x0000Bem, vamos lá para baixo!\xfffeEu fico lá á tua espera!\xf000븁\x0000
+A Wii!\xfffeTem controlo remoto!
+A Wii!\xf000븁\x0000Não está de todo estragado!
+O Pai comprou\xfffeuma televisão pequena!
+A minha cama!\xf000븁\x0000Os lençóis limpos cheiram bem!
+A cama está uma confusão...!
+O \xf000Ā\x0001\x0000 ligou o PC!\xf000븁\x0000Topico: Batalhas Pokémon \xf000븁\x0000É preciso conhecimento para Combater.\xfffeSe não sabes como, apenas aprende!\xf000븁\x0000A lutar consegues respostas para tudo.\xfffePor isso Combate!
+Este certificado significa que\xfffecompletas-te a Unova Dex!\xf000븁\x0000
+Este certificado significa que\xfffecompletas-te a Nacional Dex!\xf000븁\x0000
+Um troféu significa a vitória sobre\xfffethe Battle Subway Singles Master!
+Um troféu significa a vitória sobre\xfffethe Battle Subway Doubles Master!
+Um troféu significa a vitória sobre\xfffethe Battle Subway Multi Master!
+Um troféu significa a vitória sobre\xfffethe Battle Subway Multi Master!

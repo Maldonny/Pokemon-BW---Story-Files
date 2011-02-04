@@ -1,0 +1,27 @@
+Test Message
+$\xf000ȅ\x0001\x0002
+Gostaria de gravar a sua\xfffeactividade até este ponto?
+Já existe um ficheiro.\xfffeQueres substituir?
+O jogo está a ser guardado.\xfffeNão desligue a consola.
+\xf000ă\x0001\x0000\xfffesalvou o jogo!
+ちゅうい！！\xf000븁\x0000『つづきから はじめる』で\xfffeぼうけん していた\xf000븀\x0000レポートが かかれています！\xf000븁\x0000そち
+O jogo não pode ser guardado.\xf000븁\x0000
+Já existe outro\xfffeficheiro guardado,\xf000븀\x0000não foi possível criar um novo!\xf000븁\x0000Por favor leia as instruções do manual\xfffepara mais informações.
+Já existe outro\xfffeficheiro guardado,\xf000븀\x0000não foi possível criar um novo!\xf000븁\x0000Por favor leia as instruções do manual\xfffepara mais informações.\xf000븁\x0000
+A guardar dados.\xfffePor favor não desligue a consola.
+A escrever um ficheiro...\xfffePor favor não desligue a consola.
+A escrever um ficheiro...\xfffePor favor não desligue a consola.
+A escrever um ficheiro...\xfffePor favor não desligue a consola.
+しんにゅう　しているときや\xfffeしんにゅう　されているときは\xf000븀\x0000レポートが　かけません！
+だれかと　せつぞくちゅうの　ようですが\xfffeせつだんして　よろしいですか？
+つうしんを　せつだん　します\xfffeしばらく　おまちください
+Mãe: \xf000Ā\x0001\x0000!\xfffeBem-vindo de volta.\xf000븁\x0000As coisas pareciam más por lá...\xfffeQue tal tu descansares um pouco...?\xf000븁\x0000... ... ...\xfffe... ... ...
+Mãe: Oho!\xf000븁\x0000Parece que tu e teus Pokémon\xfffeestão se a sentir muito bem!\xf000븁\x0000\xfffeOkay! Eu ouvi isto\xfffeda professora, antes de...\xf000븁\x0000\xfffeSempre que o teu Pokémon está\xfffesem saúde... er, HP...\xf000븁\x0000Certifiqua-te de curá-lo\xfffeem um Centro Pokemon, okay?\xf000븁\x0000\xfffeQuando tu estiveres em uma aventura longinqua,\xfffeé de ajuda comprar coisas essenciais\xf000븀\x0000como Poções da Loja da Amizade.\xf000븁\x0000\xfffeBem, eu estou-te a apoiar!\xf000븁\x0000\xfffeCuidado!\xfffeE segue o teu caminho!
+Primeiro, vamos restaurar o Pokémon\xfffepara a saúde ficar completa.
+Quando a saúde dos teus Pokemons,\xfffeou HP, é reduzido a zero,\xf000븀\x0000\xfffenão te esqueças de trazê-los aqui.\xf000븁\x0000\xfffeSempre que tu estás a ir para fora\xfffequalquer distância significativa,\xf000븁\x0000\xfffenós recomendamos que compres\xfffePoções da Loja da Amizade.\xf000븁\x0000\xfffeBem, boa sorte e cuida-te!
+Veja! Todos felizes e saudáveis!\xf000븁\x0000\xfffeBoa sorte e cuida-te!
+ほんたいの むせんつうしんが\xfffeオフに なっています\xf000븁\x0000ほんたいせっていで むせんつうしんを\xfffeオンに してください （５０６９９）\xf000븁\x0000
+ほんたいの むせんつうしんが\xfffeオフに なっています\xf000븁\x0000ほんたいせっていで むせんつうしんを\xfffeオンに してください （５０６９９）
+As palavras da Araragi ecoam...\xfffe\xf000Ā\x0001\x0000! Há um tempo e\xf000븀\x0000lugar para tudo! Mas não agora.
+Não posso sair daqui!
+Este Pokémon não pode\xfffeter esta Fita específica...

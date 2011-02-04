@@ -1,0 +1,33 @@
+Esta árvore parece que pode ser cortada abaixo!\xfffeGostarias de usar o Cut?
+O \xf000Ă\x0001\x0000\xfffeusou o Cut!\xf000븁\x0000
+Esta árvore parece que pode ser\xfffecortada abaixo!
+Esta rocha apareceu para ser partida\xfffeGostarias de usar o Rock Smash?
+かたそうな　いわ　だけど……\xfffeポケモンの　わざで　こわせるかも？
+O \xf000Ă\x0001\x0000 \xfffeusou o Rock Smash!\xf000븁\x0000
+おおきな　いわ　だけど……\xfffeポケモンの　わざで　おせるかも？\xf000븁\x0000かいりきを　つかいますか？
+O \xf000Ă\x0001\x0000 \xfffeusou o Strength!\xf000븁\x0000 O Strenght do \xf000Ă\x0001\x0000 fez com que fosse\xfffepossível mover pedras a volta!
+É uma grande pedra, mas o Pokémon\xfffepode ser capaz de empurra-la.
+O Strength faz com que seja possível mover\xfffepedras a volta.
+O \xf000Ă\x0001\x0000 \xfffeusou o Strength!\xf000븁\x0000
+\xf000Ă\x0001\x0000の　かいりきの　おかげで\xfffeいわを　おせるように　なった！
+A pedra caiu!
+A agua está num azul profundo...\xfffeQueres surfar nele?
+\xf000Ă\x0001\x0000 \xfffeusou o Surf!\xf000븁\x0000
+つれあるいている　ときは\xfffeなみのりを　つかえません！
+O Surf não pode ser usado se estiveres\xfffecom alguém.
+O \xf000Ă\x0001\x0000 \xfffeusou o Defog!\xf000븁\x0000
+Há uma profunda neblina na área...\xfffeIrá o Pokémon afasta-la?
+O muro é muito rochoso...\xfffeGostarias de usar o Rock Climb?
+O \xf000Ă\x0001\x0000 \xfffeusou o Rock Climb!\xf000븁\x0000
+O muro é muito rochoso...\xfffeIrá o Pokémon escala-la?
+O Rock Climb não pode ser usado se estiveres\xfffecom alguém.
+É uma grande cascata.\xfffeGostarias de usar o Waterfall?
+O \xf000Ă\x0001\x0000 \xfffeusou o Waterfall!\xf000븁\x0000
+Uma parede de água está caindo\xfffecom um poderoso rugido.
+Tele-transportar para \xfffe\xf000ą\x0001\x0000, o ultimo sitio onde tu e o Pokemon descansaram?
+O \xf000Ă\x0001\x0000 \xfffeusou o Flash!\xf000븁\x0000
+O \xf000Ă\x0001\x0000 \xfffeusou o Teleport!\xf000븁\x0000
+O \xf000Ă\x0001\x0000 \xfffeusou o Dig!\xf000븁\x0000
+ふかい　うみだ！\xfffeポケモンの　わざで　もぐれるかも？
+ふかい　うみだ！\xfffeダイビングを　つかいますか？
+O \xf000Ă\x0001\x0000 \xfffeusou o Dive!\xf000븁\x0000

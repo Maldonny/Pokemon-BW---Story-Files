@@ -1,0 +1,38 @@
+Cheren: Os Pokémon que são envenenados\xfffevao gradualmente perdendo a energia durante o combate.\xf000븁\x0000No entanto, ocorre apenas\xfffeenquanto eles estão lutando ...\xf000븁\x0000
+Oh, olá, \xf000Ā\x0001\x0000.\xf000븁\x0000Vieste à procura\xfffedo líder do ginásio?
+Ele estava aqui a falar de\xfffetipos de Pokémon um tempo atrás ...\xf000븁\x0000Eu acho que tu acabaste de o perder?\xf000븁\x0000
+A melhor maneira de tornar-se um forte\xfffetreinador é através da prática real.\xf000븁\x0000Como tal, desafiando os líderes de ginásio\xfffeé muito bonito sua melhor opção ...\xf000븁\x0000
+De qualquer forma, \xf000Ā\x0001\x0000,\xfffecombates comigo?\xf000븁\x0000Eu quero testar\xfffecomo os itens são importantes.
+Cheren: \xf000Ā\x0001\x0000,\xfffeQueres combater comigo?\xf000븁\x0000Eu quero testar\xfffecomo os itens são importantes.
+A sério? Bem, eu quero saber,\xfffeentão eu vou estar aqui á espera até que estejas pronto.
+Cheren: Hm, como é útil, vai ser ... itens?\xf000븁\x0000Ou talvez eu deva testar\xfffequanto tempo eu posso lutar sem itens?\xf000븁\x0000Claro, estamkos a combater dentro,\xfffeEntão não vamos ser muito ásperos.\xf000븁\x0000
+Cheren: Sim, eu vejo agora\xfffeque a utilização do item é fundamental.\xf000븁\x0000Ok, \xf000Ā\x0001\x0000,\xfffeEu vou te dar esta berry.\xf000븁\x0000
+Cheren: Se você der a Berry para \xfffeo Pokemon segurar...\xf000븁\x0000Eles comem sempre que\xfffeestão com pouca saúde no campo de batalha.\xf000븁\x0000Embora eles não podem usar itens\xfffeas pessoas possam utilizar, como poções ...\xf000븁\x0000Bem, faz o teu melhor!\xf000븁\x0000
+Eu adoro Pokémon, por esta razão\xfffeeu quero saber mais sobre eles.\xf000븁\x0000\xfffeO instrutor da Escola existe\xfffepara cumprir esse desejo! 
+Os Pokémon têm poderes misteriosos\xfffeconhecido como Habilidades.\xf000븁\x0000Habilidades podem ter\xfffevários tipos de efeitos ...\xf000븁\x0000Muitos dos efeitos \xfffepode ser visto durante o combate! 
+Há uma técnica conhecida como\xfffeCancelar a Evolução.\xf000븀\x0000Ouves-me? Eu vou ler este livro.\xf000븁\x0000"Quando um Pokémon está a evoluir,\xfffe ao pressionar o botão B\xf000븀\x0000 será, surpreendentemente, abortada a evolução". 
+Há movimentos que só podem ser\xfffeaprendidos através do uso de TMs.\xf000븁\x0000\xfffeTMs podem ser usados indefinidamente,\xfffeentão você deve usá-los o tempo todo.\xf000븁\x0000\xfffeSe a mudança torna-se inútil,\xfffepode apenas substituí-la por outra TM! 
+Se quiseres,  posso perguntar-te sobre os\xfffeefeitos de estado! Como? 
+Então aqui está a questão!\xf000븁\x0000Qual dos seguintes itens é\xfffeusado para curar um Pokémon envenenado?
+Antidote 
+Burn Heal 
+Awakening 
+Ding-ding-ding!\xf000븁\x0000Está correcto!\xfffeAgora para a próxima pergunta!\xf000븁\x0000
+Qual item é usado para curar uma queimadura ... uh ...\xf000븁\x0000... Bem, sim, é o Burn Heal, duh.\xf000븁\x0000Qual dos seguintes itens é\xfffeusado para acordar Pokemons dormindo? 
+Ding-ding-ding! DingdingdingDING!!\xf000븁\x0000Está totalmente certo!\xf000븁\x0000Para saber coisas sobre o seu estado,\xfffedeixa-me dar este presente!\xf000븁\x0000
+O Full Heal, como podes imaginar,\xfffepode curar todas e quaisquer efeitos!
+Se tu quiseres uma pergunta,\xfffevolta a falar comigo!
+BZZZZZT!\xf000븁\x0000Desculpa... Isso está errado!\xfffeMas, vamos começar o desafio de novo! 
+O quadro está repleto de\xfffeinformações sobre os efeitos de estado\xf000븁\x0000\xfffeque podem surgir durante o combate.\xf000븁\x0000
+O que vais ver? 
+Envenenamento faz um Pokémon\xfffeperder a energia durante o combate.\xf000븁\x0000Mesmo após o comabate terminar,\xfffeo veneno permanecerá.\xf000븁\x0000Pode curá-lo com um antídoto.\xf000븁\x0000
+Paralisação baixa a velocidade e faz um\xfffePokémon, por vezes, incapaz de usar ataques.\xf000븁\x0000\xfffeApós o combate,\xfffea paralisação vai continuar.\xf000븁\x0000\xfffeCurá-lo com um Paralyze Heal.\xf000븁\x0000
+Sono fará um Pokémon\xfffetemporariamente impossibilitado de usar os ataques.\xf000븁\x0000\xfffeEmbora possa despertar,\xfffese dormir quando o combate termina,\xf000븀\x0000\xfffeum Pokémon vai ficar a dormir.\xf000븁\x0000\xfffePode curá-lo com o awakening.\xf000븁\x0000
+Ser queimado, faz o ataque ficar baixo,\xfffee a energia cada vez mais baixa.\xf000븁\x0000\xfffeMesmo após o combate terminar,\xfffeuma queimadura permanecerá.\xf000븁\x0000\xfffePode curá-lo com um Burn Heal.\xf000븁\x0000
+Ser congelados fará um Pokémon\xfffeincapaz de fazer qualquer coisa.\xf000븁\x0000\xfffeEmbora possa descongelar,\xfffese forem congelados, quando o combate termina,\xf000븀\x0000\xfffeum Pokémon vai ficar congelado.\xf000븁\x0000\xfffePode curá-lo com um Ice Heal.\xf000븁\x0000
+Veneno
+Paralisia
+Adormecido
+Queimado
+Congelado
+Sair

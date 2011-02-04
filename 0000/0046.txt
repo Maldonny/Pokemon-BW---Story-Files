@@ -1,0 +1,12 @@
+O \xf000ā\x0001\x0000\xfffe é o teu Pokémon favorito?
+E qual é\xfffeo teu Ovo favorito?
+Eu sabia! Eu sabia!\xfffeEu sabia que estava certo!
+O quê?\xf000ā\x0001\x0000\xfffe não é o teu favorito!?
+O quê? Esse ovo\xfffenão é o teu favorito!?
+Eu posso dizer todos os\xfffemeus Pokémon favoritos!
+Quando estou cansado, eu preciso de uma pausa!\xfffeÉ a mesma coisa com os Pokémon.
+O que precisas para curar o teu Pokémon?\xfffeAh, desculpa!\xf000븁\x0000
+Sabes algo sobre Geonet?
+Tu!Estás a usar Geonet!?\xfffeÉ giro ser ...\xf000븀\x0000Deve tentar a GTS.\xf000븁\x0000さFala com a rapariga próxima\xfffedo Globo Gigante.\xf000븀\x0000Podes trocar Pokémons online!\xf000븁\x0000Não te vais de certeza\xfffearrepender de usá-lo! É incrível!
+Oh! Tu sabes algo sobre Geonet!\xfffeIsso é óptimo!\xf000븁\x0000Certifica-te de\xffferegistrar a tua localização!\xf000븁\x0000Dessa forma, os teus amigos\xfffepodem usar o Geonet para\xf000븀\x0000ver de onde tu és!
+Há um globo no segundo\xfffeandar de cada Centro Pokémon.\xf000븁\x0000É chamado Geonet.\xf000븁\x0000Tu podes usá-lo para registar\xfffea tua localização e ver os teus\xf000븀\x0000amigos ao redor do mundo ao vivo!

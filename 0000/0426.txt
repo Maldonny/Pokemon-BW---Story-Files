@@ -1,0 +1,37 @@
+Eu sou um homem que trata de Pokemons.\xf000븁\x0000Nós cuidamos dos preciosos Pokémon\xfffedos treinadores.\xf000븁\x0000Se queres subir de nível o teu\xfffePokémon, fala com a minha esposa.
+Ah, és tu!\xfffeÉ bom ver-te.\xfffeO teu \xf000Ă\x0001\x0000 está lindamente.
+Ah, és tu!\xfffeÉ bom ver-te!\xf000븁\x0000O teu \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001\xfffeestão lindamente.\xf000븁\x0000Os dois parecem dar-se muito bem!
+Ah, és tu!\xfffeÉ bom ver-te!\xf000븁\x0000O teu \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001\xfffeestão lindamente.\xf000븁\x0000Os dois parecem dar-se bem.
+Ah, és tu!\xfffeÉ bom ver-te!\xf000븁\x0000O teu \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001\xfffeestão lindamente.\xf000븁\x0000Os dois parecem não gostar\xfffeum do outro.
+Ah, és tu!\xfffeÉ bom ver-te!\xf000븁\x0000O teu \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001\xfffeestão lindamente.\xf000븁\x0000Os dois preferem brincar com outro\xfffePokémon do que um com o outro.
+Ah, és tu!\xf000븁\x0000Nós tratamos do teu Pokémon,\xfffee ficamos, muito surpreendidos!\xf000븁\x0000O teu Pokémon\xfffetem um Ovo!\xf000븁\x0000Nós não sabemos como aconteceu,\xfffe(Pelo menos a minha esposa não!)\xf000븀\x0000mas o teu Pokémon tem-o.\xf000븁\x0000Queres-o, não queres?
+O \xf000Ā\x0001\x0000 recebeu o Ovo do\xfffetratador de Pokemons!
+Toma bem conta dele!
+Agora não há espaço para o meter...\xf000븁\x0000Volta quando\xfffetiveres espaço na equipa.
+Eu vou ficar com ele.\xfffeQueres, sim ou não?
+Então, eu vou ficar com ele.\xfffeObrigado!
+Sou uma senhora que cuida de Pokemons.\xf000븁\x0000Nós podemos subir de nível\xfffeao Pokemon por ti.\xf000븁\x0000Queres isso?
+Sou uma senhora que cuida de Pokemons.\xf000븁\x0000Nós podemos subir de nível\xfffeao Pokemon por ti.\xf000븁\x0000Queres isso?
+Muito bem.\xfffeVolta em breve.
+Ah, aqui estás tu!\xfffeO meu marido estava á tua procura.
+その　ポケモンを　あずけると\xfffeたたかえなく　なるぞ\xf000븁\x0000また　きなさいよ
+Que Pokémon devemos tratar\xfffepor ti?\xf000븁\x0000
+おやおや　おまえさん\xfffeそれは　タマゴ　じゃぞ！
+Está bem, iremos tratar do　\xf000Ā\x0001\x0000\xfffe.\xf000븁\x0000
+Volta mais tarde.
+Podemos tratar de dois dos teus Pokémons.\xfffeQueres que façamos isso?
+Queres o teu Pokémon de volta?\xfffeEscolhe um?
+O \xf000ā\x0001\x0000 cresceu\xfffe\xf000ȁ\x0001\x0001 níveis.\xf000븁\x0000
+Se queres o teu \xf000ā\x0001\x0000 de volta,\xfffeirá custar $\xf000Ȅ\x0001\x0001.
+Não tens dinheiro suficiente...
+O \xf000Ā\x0001\x0001 tem o \xf000ā\x0001\x0000 de volta\xfffeda senhora tratadora de Pokemon.\xf000븁\x0000
+Queres o outro de volta?
+おや？　おまえさん\xfffeその　ポケモンを　あずけると\xf000븁\x0000ぜんぶで　ポケモンが　１ひき　だけに\xfffeなってしまう　みたいじゃな\xf000븁\x0000もっと　たくさん　つかまえてから\xfffeきてみては　どうじゃ？
+\xf000ȅ\x0001\x0002円
+Loja
+Levar
+Sair
+ＬＶ\xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000♂　ＬＶ\xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000♀　ＬＶ\xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000　ＬＶ\xf000Ȃ\x0001\x0001

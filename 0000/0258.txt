@@ -1,0 +1,25 @@
+Shaga: Se quiseres,\xfffeeu posso ensinar ao teu Pokémon\xf000븀\x0000o ataque supremo do tipo Dragão.\xf000븁\x0000Então, devo ensiná-lo\xfffea um dos teus Pokémon?\xf000븁\x0000
+Muito bem. Se mudares\xfffede ideias, volta cá.
+Hm...\xf000븁\x0000Tu tens Pokémon\xfffecapazes de aprender este ataque.\xf000븁\x0000No entanto, esses Pokémon não\xfffetêm absolutamente nenhuma ligação a ti...\xf000븁\x0000Então não tenho razões\xfffepara ensinar-te este ataque.
+Estou a ver...\xf000븁\x0000Mas tu não tens nenhum Pokémon\xfffeque consiga aprender este ataque.
+A que Pokémon\xfffedevo ensinar?\xf000븁\x0000
+Peço as minhas profundas desculpas, mas...\xf000븁\x0000Esse Pokémon não pode\xfffeaprender este ataque.
+Hm...\xf000븁\x0000Ensinar um ataque a um ovo\xfffeé uma tarefa impossível.
+Hm... mas esse Pokémon\xfffejá sabe \xf000ć\x0001\x0000...
+Shaga: O Draco Meteor é\xfffeextremamente poderoso, mas usá-lo\xf000븀\x0000baixa o teu próprio Ataque Especial.
+Desistir de ensinar um ataque\xfffea \xf000Ă\x0001\x0000?
+\xf000Ă\x0001\x0000 aprendeu\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 quer aprender o\xfffeataque \xf000ć\x0001\x0001.\xf000븁\x0000No entanto, \xf000Ă\x0001\x0000 já\xfffesabe 4 ataques.\xf000븁\x0000Queres apagar um ataque e\xfffesubstituí-lo com \xf000ć\x0001\x0001?
+Desistir de aprender \xfffe\xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 não aprendeu\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
+Apagar o ataque\xfffe\xf000ć\x0001\x0000?
+1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 esqueceu-se como se\xfffeusa \xf000ć\x0001\x0001.\xf000븁\x0000E...\xf000븁\x0000\xf000Ă\x0001\x0000 aprendeu\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
+Iris: Hey hey!\xfffeDeixa-me ensinar-te o\xf000븀\x0000ataque supremo do tipo Dragão!!\xf000븁\x0000O que estás a dizer? Queres que eu\xfffeensine um dos teus Pokémon?\xf000븁\x0000
+O-kaaay! Está bem então, volta\xfffese mudares de ideias!!
+Vamos ver...\xf000븁\x0000Esse Pokémon\xfffePODERIA aprendê-lo, mas...\xf000븁\x0000Não... está muito\xfffeligado a ti...\xf000븁\x0000Isso torna muito difícil\xfffeensinar-lhe este ataque!
+Ummm,\xfffeuhhh...\xf000븁\x0000Tu não tens nenhum\xfffePokémon que eu possa ensinar, desculpa...
+Então que a Pokémon devo\xfffeensinar este ataque?\xf000븁\x0000
+Umm, desculpa, mas...\xf000븁\x0000Esse Pokémon não pode\xfffeaprender o ataque...
+O QUÊÊ?!\xf000븁\x0000Ensiná-lo a um OVO?\xfffe...OKAY! A Iris vai FAZER O SEU MELHOR!!\xf000븁\x0000HRNNN... ... ...\xfffe... ... ...ugh!\xf000븁\x0000Desculpa...\xfffeNão vai funcionar...
+O que foi? Esse Pokémon nãoxfffesabe já \xf000ć\x0001\x0000?
+Iris: O Draco Meteor é\xfffebuéréré poderoso! Mas!\xf000븁\x0000Depois de usá-lo, o teu\xfffeAtaque Especial desce!

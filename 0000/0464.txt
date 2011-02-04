@@ -1,0 +1,10 @@
+É uma maquina de vendas!\xfffeQueres comprar alguma coisa?
+Caiu um(a) \xf000ĉ\x0001\x0000 !\xf000븁\x0000
+Sortudo! Caiu um extra de\xfffe\xf000ĉ\x0001\x0000!\xf000븁\x0000
+Não tens dinheiro suficiente!
+Não compraste nada.
+Queres comprar mais alguma coisa?
+Água Fresca\xf000봃\x0001\x0001$200
+Soda\xf000봃\x0001\x0001$300
+Limonada\xf000봃\x0001\x0001$350
+Sair

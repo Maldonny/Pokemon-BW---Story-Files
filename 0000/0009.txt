@@ -1,0 +1,113 @@
+Test
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeIsto vai conduzir-te à\xfffeEstação de metro Singular.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeIsto vai conduzir-te à\xfffeEstação de metro Dupla.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeIsto vai conduzir-te à\xfffeEstação de metro Multi.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeIsto vai conduzir-te à\xfffeEstação de metro Wi-Fi.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeIsto vai conduzir-te à\xfffeEstação de metro Super Singular.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeEste é o Metro Super Singular,\xfffeQue pode apenas ser embarcado\xf000븀\x0000\xfffePor vencedores acima do Metro Singular.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeIsto vai conduzir-te à\xfffeEstação de metro Super Dupla.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeEste é o Metro Super Duplo,\xfffeQue pode apenas ser embarcado\xf000븀\x0000\xfffePor vencedores acima do Metro Duplo.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeIsto vai conduzir-te à\xfffeEstação de metro Super Multi.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeEste é o Super Metro Multi,\xfffeQue pode apenas ser embarcado\xf000븀\x0000\xfffepor vencedores acima do Metro Multi.\xf000븁\x0000
+test
+Até Agora, \xf000Ā\x0001\x0000,\xfffevenceste \xf000ȃ\x0001\x0001 seguidos.\xf000븁\x0000
+No Metro Singular,\xfffetu batalhas com três Pokémons.\xf000븁\x0000\xfffeOs três Pokémons que escolheres\xfffeDevem ser todos diferentes!\xf000븁\x0000\xfffeOs Itens Segurados devem ser diferentes,\xfffeassumindo que usas algum.\xf000븁\x0000\xfffeE também, todos os Pokémons devem\xfffeestar a Nivel 50.\xf000븁\x0000\xfffeCada metro tem\xfffesete treinadores dentro dele.\xf000븁\x0000\xfffeEntão, tu deves ganhar\xfffeaos sete treinadores!\xf000븁\x0000
+Quando ganhares aos sete,\xfffevais voltar à estação\xf000븀\x0000\xfffeE ganharás Pontos de Batalha,\xf000븀\x0000\xfffeEntão, faz o teu melhor!\xf000븁\x0000\xfffeEm adição, se quiseres\xfffeparar a meio de uma tentativa,\xf000븀\x0000\xfffepodes salvar o teu jogo,\xf000븀\x0000\xfffemas se parares sem salvar,\xf000븀\x0000\xfffeo teu desafio será anulado,\xf000븀\x0000\xfffeentão, tem cuidado!\xf000븁\x0000
+No Metro Duplo,\xfffebatalhas com quatro Pokémons.\xf000븁\x0000\xfffeOs quatro Pokémons que escolheres\xfffeDevem ser todos diferentes!\xf000븁\x0000\xfffeOs Itens Segurados devem ser diferentes,\xfffeassumindo que usas algum.\xf000븁\x0000\xfffeE Também, todos os Pokémons devem\xfffeEstar a Nivel 50.\xf000븁\x0000\xfffeCada Metro tem\xfffesete treinadores dentro dele.\xf000븁\x0000\xfffeEntão tu deves ganhar\xfffeaos sete treinadores!\xf000븁\x0000\xf000븁\x0000
+Quando ganhares aos sete,\xfffevais voltar à Estação\xf000븀\x0000\xfffeE ganharás Pontos de Batalha,\xf000븀\x0000\xfffeEntão, faz o teu melhor!\xf000븁\x0000\xfffeEm adição, se quiseres\xfffeparar a meio de uma tentativa,\xf000븀\x0000\xfffepodes salvar o teu jogo,\xf000븀\x0000\xfffemas se parares sem salvar,\xf000븀\x0000\xfffeo teu desafio será anulado,\xf000븀\x0000\xfffeentão, tem cuidado!\xf000븁\x0000
+No Metro Multi, batalhas em pares\xfffede treinadores com dois Pokémons simultâneamente\xf000븀\x0000\xfffeEm séries de Batalhas Multiplas.\xf000븁\x0000\xfffeOs quatro Pokémons que escolheres\xfffeDevem ser todos diferentes!\xf000븁\x0000\xfffeOs Itens Segurados devem ser diferentes,\xfffeassumindo que usas algum.\xf000븁\x0000\xfffeE Também, todos os Pokémons devem\xfffeEstar a Nivel 50.\xf000븁\x0000\xfffeCada Metro tem\xfffesete pares de treinadores dentro dele.\xf000븁\x0000\xfffeEntão tu deves ganhar\xfffeaos sete pares de treinadores!
+Quando ganhares aos sete,\xfffevais voltar à Estação\xf000븀\x0000\xfffeE ganharás Pontos de Batalha,\xf000븀\x0000\xfffeEntão, faz o teu melhor!\xf000븁\x0000\xfffeEm adição, se quiseres\xfffeparar a meio de uma tentativa,\xf000븀\x0000\xfffepodes salvar o teu jogo,\xf000븀\x0000\xfffemas se parares sem salvar,\xf000븀\x0000\xfffeo teu desafio será anulado,\xf000븀\x0000\xfffeentão, tem cuidado!\xf000븁\x0000
+No Metro Wi-Fi,\xfffetu batalhas com três Pokémons.\xf000븁\x0000\xfffeOs três Pokémons que escolheres\xfffeDevem ser todos diferentes!\xf000븁\x0000\xfffeOs Itens Segurados devem ser diferentes,\xfffeassumindo que usas algum.\xf000븁\x0000\xfffeE também, todos os Pokémons devem\xfffeestar a Nivel 50.\xf000븁\x0000\xfffeCada metro tem\xfffesete treinadores dentro dele.\xf000븁\x0000\xfffeEntão, tu deves ganhar\xfffeaos sete treinadores!\xf000븁\x0000
+Os teus enimigos são utilizadores de Wi-Fi\xfffede qualquer parte do mundo.\xf000븁\x0000\xfffeQuando ganhares aos sete,\xfffevais voltar à Estação\xf000븀\x0000\xfffeE ganharás Pontos de Batalha,\xf000븀\x0000\xfffeEntão, faz o teu melhor!\xf000븁\x0000\xfffeE talvez haja uma change de\xfffetu poderes aparecer no Metro!\xf000븁\x0000\xfffeO Metro Wi-Fi também possui\xfffeum Ranking.\xf000븁\x0000\xfffeMantem-te a ganhar, e o teu rank aumenta.\xfffeMantem-te a perder, e o ele diminui.\xf000븁\x0000\xfffeÀ medida que vais ganhando, enfrentarás\xfffeenimigos mais fortes!\xf000븁\x0000\xfffes sete,\xfffevais voltar à Estação\xf000븀\x0000\xfffeE ganharás Pontos de Batalha,\xf000븀\x0000\xfffeEntão, faz o teu melhor!\xf000븁\x0000\xfffeEm adição, se quiseres\xfffeparar a meio de uma tentativa,\xf000븀\x0000\xfffepodes salvar o teu jogo,\xf000븀\x0000\xfffemas se parares sem salvar,\xf000븀\x0000\xfffeo teu desafio será anulado,\xf000븀\x0000\xfffeentão, tem cuidado!\xf000븁\x0000
+Vais embarcar\xfffeno Metro Singular?
+Vais embarcar\xfffeno Metro Duplo?
+Vais embarcar\xfffeno Metro Multi?
+Vais embarcar\xfffeno Metro Wi-Fi?
+Vais embarcar\xfffeno Metro Super Singular?
+Vais embarcar\xfffeno Metro Super Duplo?
+Vais embarcar\xfffeno Metro Super Multi?
+test
+Passageiro!\xf000븁\x0000\xfffeNão tens \xf000Ȁ\x0001\x0000\xfffePokémons que possam entrar.\xf000븁\x0000\xfffePara entrar, por favor usa\xfffe\xf000Ȁ\x0001\x0000 Pokémons diferentes\xf000븀\x0000\xfffecom itens diferentes!
+test
+Bem, então, escolhe os\xfffePokémons com que irás entrar.\xf000븁\x0000
+Tudo Ok, então! Todos a Bordo\xfffeno Metro Singular!\xf000븁\x0000
+Tudo Ok, então! Todos a Bordo\xfffeno Metro Duplo!\xf000븁\x0000
+Tudo Ok, então! Todos a Bordo\xfffeno Metro Multi!\xf000븁\x0000
+Tudo Ok, então! Todos a Bordo\xfffeno Metro Wi-Fi!\xf000븁\x0000Estás preparado?
+Tudo Ok, então! Todos a Bordo\xfffeno Metro Super Singular!\xf000븁\x0000
+Tudo Ok, então! Todos a Bordo\xfffeno Metro Super Duplo!\xf000븁\x0000
+Tudo Ok, então! Todos a Bordo\xfffeno Metro Super Multi!\xf000븁\x0000
+Salvar o teu jogo\xfffee parar por um bocado?
+Estivemos à espera!\xf000븁\x0000\xfffeEstás pronto para continuar\xfffeo teu Desafio do Metro Batalha?
+O jogo deve ser salvo\xfffeantes de ser reconduzido.
+Bem então, deixa-me conduzir-te\xfffede volta para onde paraste!\xf000븁\x0000
+Obrigado pelo teu esforço!\xf000븁\x0000\xfffeSe desejares voltar a desafiar,\xfffepor favor, volta!\xf000븁\x0000
+Salvando o jogo.\xfffePor Favor espera.
+Passageiro!\xf000븁\x0000\xfffeSalvaste da ultima vez, depois saiste\xfffesem completar o desafio?\xf000븁\x0000\xfffePeço desculpa, mas isso\xfffeinvalida o teu desafio!\xf000븁\x0000
+Muito bem então!\xfffeEsperamos as tuas futuras visitas!
+Embarcar
+Explicar
+Sair
+História
+Metro Anterior
+てもちか バトルボックスの\xfffeどちらを つかうか えらんでください
+てもち
+バトルボックス
+Sair
+つうしんで おともだちと\xfffeいっしょに ちょうせん しますか？
+\xf000Ā\x0001\x0000, your current\xffferank is \xf000ȁ\x0001\x0001!\xf000븁\x0000
+おまちしておりました！\xf000븁\x0000\xfffeぜんかいの せいせきを\xfffeＷｉ－Ｆｉコネクションに\xf000븀\x0000\xfffeおくって いませんが\xf000븀\x0000\xfffeこれから おくりますか？
+せいせきを Ｗｉ－Ｆｉコネクションに\xfffeおくりました！\xf000븁\x0000
+ランク\xf000ȁ\x0001\x0000 トレインナンバー\xf000Ȃ\x0001\x0001の\xfffeれきだいの きろくを うけとりました\xf000븁\x0000\xfffeおもてに せっちされた\xfffeせいせきモニターで\xf000븀\x0000\xfffeごかくにん ください\xf000븁\x0000
+ふたりの うち ひとりが\xfffeリーダーになる を えらび\xf000븁\x0000\xfffeもう ひとりは グループにはいる を\xfffeえらんでください
+おともだちと おなじ\xfffe\xf000ā\x0001\x0000を えらんで います！\xf000븁\x0000おともだちと そうだん してから\xfffeまた おこし ください\xf000븁\x0000
+おともだちと おなじ \xf000ā\x0001\x0000や\xfffe\xf000ā\x0001\x0001を えらんで います！\xf000븁\x0000\xfffeおともだちと そうだん してから\xfffeまた おこし ください\xf000븁\x0000
+おともだちと えらんだ\xfffeトレインが ちがって います！\xf000븁\x0000\xfffeおともだちと そうだん してから\xfffeまた おこし ください\xf000븁\x0000
+Bom dia! Eu sou a Touya!\xf000븁\x0000\xfffeEsta é a tua primeira vez a tentar\xfffeo Metro Multi, certo?\xf000븁\x0000\xfffeBem, vais precisar de um parceiro\xfffepara batalhar no Metro Multi!\xf000븁\x0000
+Bom Dia! I'm Touko!\xf000븁\x0000\xfffeEsta é a tua primeira vez a tentar\xfffeo Metro Multi, certo?\xf000븁\x0000\xfffeBem, vais precisar de um parceiro\xfffepara batalhar no Metro Multi!\xf000븁\x0000
+Bom Dia, \xf000Ā\x0001\x0000!\xfffeencontramo-nos outra vez!\xf000븁\x0000
+Bom Dia, \xf000Ā\x0001\x0000!\xfffeEstou feliz por te ver!\xf000븁\x0000
+Oh, estás sozinho hoje?\xf000븁\x0000\xfffeMuito bem então, faz parceria comigo!\xfffeSim, Sim, isso funciona.\xf000븁\x0000\xfffeEntão, que tipo de Pokémon\xfffedevo usar?
+Ah, estás sozinho hoje?\xf000븁\x0000\xfffeMuito bem então, faz parceria comigo!\xfffeSim, Sim, isso funciona.\xf000븁\x0000\xfffeEntão, que tipo de Pokémon\xfffedevo usar?
+Ofensivo
+Defensivo
+Equilibrado
+Ok então, Ofensivo!\xfffeVamos lá!\xf000븁\x0000
+Ok então, Defensivo!\xfffeVamos lá!\xf000븁\x0000
+Ok então, Equilibrado!\xfffeVamos lá!\xf000븁\x0000
+Muito Bem, Ofensivo!\xfffeVamos começar!\xf000븁\x0000
+Muito Bem, Defensivo!\xfffeVamos começar!\xf000븁\x0000
+Muito Bem, Equilibrado!\xfffeVamos começar!\xf000븁\x0000
+Huh? You won't have me join?\xf000븁\x0000\xfffeVemo-nos por aí...\xf000븁\x0000
+Huh? You won't let me join?\xf000븁\x0000\xfffeVemo-nos por aí...\xf000븁\x0000
+Tornar-se o Lider
+Juntar-se a um grupo
+ＤＳワイヤレスつうしん を\xfffeかいし しますか？
+つうしんの せつだんに\xfffeしっぱい しました
+Salvando o jogo...
+ざんねんながら こんかい ランクが\xfffe\xf000ȁ\x0001\x0000に さがって しまいました……\xf000븁\x0000
+せきがいせんつうしんと\xfffeＤＳワイヤレスつうしん\xf000븁\x0000どちらに されますか？
+せきがいせんつうしん
+Comunicações de Wireless da DS
+せきがいせんつうしん および\xfffeＤＳワイヤレスつうしんを\xf000븀\x0000かいし しますか？
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeEste é o Metro Super Singular,\xfffeQue pode apenas ser embarcado\xf000븀\x0000\xfffePor vencedores acima do Metro Singular.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeEste é o Metro Super Duplo,\xfffeQue pode apenas ser embarcado\xf000븀\x0000\xfffePor vencedores acima do Metro Duplo.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeEste é o Super Metro Multi,\xfffeQue pode apenas ser embarcado\xf000븀\x0000\xfffepor vencedores acima do Metro Multi.\xf000븁\x0000
+Isto foi divertido!\xfffeVamos lutar lado a lado outra vez!\xf000븁\x0000
+Isto foi divertido!\xfffeDevias lutar os dois outra vez!\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeO Metro Super Singular\xfffeestá fechado por agora.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeO Metro Super Duplo\xfffeestá fechado por agora.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeO Metro Super Multi\xfffeestá fechado por agora.\xf000븁\x0000
+Bem-vindo ao Metro de Batalha!\xf000븁\x0000\xfffeO Metro Wi-FI\xfffeestá fechado por agora.\xf000븁\x0000
+こんかいの せいせきを Ｗｉ－Ｆｉ\xfffeコネクションに おくりますか？
+A esperar pela comunicação.
+Que tipo de Pokémon\xfffedevo usar?
+Com que tipo de Pokémon\xfffedevo entrar?
+げんざい \xf000Ā\x0001\x0000さまは\xfffeトレーナーとマルチ が\xf000븀\x0000\xf000ȃ\x0001\x0001れんしょうちゅう です\xf000븁\x0000
+げんざい \xf000Ā\x0001\x0000さまは\xfffeともだちとマルチ が\xf000븀\x0000\xf000ȃ\x0001\x0001れんしょうちゅう です\xf000븁\x0000
+げんざい \xf000Ā\x0001\x0000さまは\xfffeトレーナーとマルチ が\xf000븀\x0000\xf000ȃ\x0001\x0001れんしょうちゅう です\xf000븁\x0000ともだちとマルチ が\xfffe\xf000ȃ\x0001\x0002れんしょうちゅう です\xf000븁\x0000
+Sem Dados
+Vais embarcar\xfffeno Metro para a Vila de Kanawa?
+まもなく はっしゃ いたします\xfffeごじょうしゃ ください！\xf000븁\x0000
+Muito bem então!\xfffeEsperamos por visitas futuras!
+Muito bem então!\xfffeEsperamos por visitas futuras!\xf000븁\x0000

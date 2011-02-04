@@ -1,0 +1,13 @@
+O efeito do Repel acabou.
+Não parece\xfffehaver nada aqui...
+Por alguma razão,\xfffeo doce porfume foi-se embora...
+Apanhaste um Pokémon!\xf000븁\x0000
+Não apanhaste nada...\xf000븁\x0000
+Puxaste a cana demasiado cedo!\xf000븁\x0000
+Puchaste a cana demasiado tarde!\xf000븁\x0000
+\xf000Ā\x0001\x0000 entrou\xfffepara o High-Link!\xf000븁\x0000
+Não podes entrar\xfffeno High-Link daqui!
+Não podes entrar no High-Link\xfffea meio de uma missão.
+Tu estás ligado a alguém,\xfffepor isso não podes entrar no High-Link.
+...Participando numa missão\xfffeno High-Link!\xf000븀\x0000Tu vais voltar quando completa.\xf000븁\x0000Entraste no High-Link\xfffedo teu parceiro para ajudar na missão!\xf000븁\x0000
+Conexão Interrompida.

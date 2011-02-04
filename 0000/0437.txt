@@ -1,0 +1,14 @@
+Araragi: Isto é o Centro Pokémon!\xfffeSentes-te cansado？\xf000븁\x0000Se sim, o Centro Pokemon é o sitio\xfffecerto para ti!\xf000븁\x0000
+Bel: Aqui estás tu!\xf000븁\x0000
+Araragi: O Centro Pokemon é\xfffeum bom sitio!\xf000븁\x0000É espectacular!\xf000븁\x0000Tu irás voltar aqui se tu perderes um combate!\xf000븀\x0000Também não tentes sempre ganhar, está bem?\xf000븁\x0000O teu Pokemon poderá ficar chateado.\xf000븁\x0000Está bem \xf000Ā\x0001\x0000\xfffeTenta. Cura os teus Pokémons!\xf000븁\x0000
+Araragi: Whoa, whoa, \xf000Ā\x0001\x0000!\xfffeOnde estás a ir?!\xf000븁\x0000Aqui! Fala com a enfermeira e\xfffepede-lhe para ela tratar dos teus Pokémon!\xf000븁\x0000
+Araragi: Tenta no Centro Pokemon,\xfffedá os teus Pokemons á Infermeira Joy.
+Bel: \xf000Ā\x0001\x0000,Tenta!
+Araragi: Está bem!\xfffeVamos agora para o Armazenador de Pokemon!\xf000븁\x0000Podes trocar os teus Pokemons\xfffeaqui!\xf000븁\x0000
+Araragi: Aqui está!\xfffeIsto é o mais conhecido, o PC!\xf000븁\x0000Tem sido assim em muitos, muitos anos.\xf000븁\x0000Todos usamos este PC..\xf000븁\x0000É mais preciso ao treinadores de Pokémon\xfffecomo tu\xf000븁\x0000Podes vir e buscar os teus Pokemons.\xfffeSempre que tu quiseres!\xf000븁\x0000Oh, não te esqueças de trazer o teu\xfffePokémon, eles não vão ganhar qualquer EXP.\xf000븀\x0000Certifique-se de mudar de vez em quando!\xf000븁\x0000Agora o que a seguir?\xf000븁\x0000Ah, sim, o Poké Mercado\xfffeVem comigo!\xf000븁\x0000
+Bel: O que……\xf000븁\x0000Então posso deixar o meu Pokémon aqui?\xf000븁\x0000……?\xf000븁\x0000
+Araragi: Certo!\xfffeÉ espectácular não é?\xf000븀\x0000Sempre que tiveres 6 Pokémons,\xf000븁\x0000Os Pokemons apanhados serão \xfffetraferidos para o teu PC!\xf000븁\x0000Está bem, temos de continuar, Bel!\xf000븁\x0000
+Araragi: É isto\xfffeo Mercado Pokémon !\xf000븁\x0000É muito útil quando\xfffetu precisas de fornecimentos.\xf000븁\x0000Também podes vender algumas coisas!\xf000븁\x0000Certifica-te de reabastecer com frequência!\xf000븁\x0000/Tu pode sempre acabar\xfffeas Pokébolas!\xf000븁\x0000
+Araragi: Bem!\xf000븁\x0000Isto aqui não é a outra coisa senão\xfffe as salas de Wi-fi!\xf000븁\x0000Podes negociar Pokemons a partir da\xfffeinternet Wireless!\xf000븁\x0000Precisar de ir primeiro ao \xfffe1º Ginásio!\xf000븁\x0000Também podes combater com as pessoas online\xfffese tiveres um 'Friend Code'.\xf000븁\x0000Bem, não posso contar-te tudo\xfffepois não?\xf000븁\x0000Eu vou lá para fora.\xf000븁\x0000Aquela Team Plasma esteve á espreita\xfffepor todo o lado!\xf000븁\x0000
+Bel: Bem, não foi interessante?\xf000븁\x0000É melhor comprar alguns items.\xfffeTenho a certeza que vou precisar deles!\xf000븁\x0000
+Podes sempre guardar o progresso\xfffepressionando o botão X e carregar no GRAVAR!……\xf000븀\x0000É sempre importante guardar!

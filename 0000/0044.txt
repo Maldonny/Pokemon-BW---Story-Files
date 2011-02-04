@@ -1,0 +1,17 @@
+Cenários deliciosos, batalhas excitantes!\xfffeBem-vindo ao Unova Real!\xf000븁\x0000\xfffeCusta $1000\xfffepara ir a bordo.\xf000븀\x0000\xfffeQuer ir a bordo?
+O Unova Real é um navio de cruzeiro\xfffeque sai uma vez por noite.\xf000븁\x0000
+O Unova Real é um\xfffecruzeiro que dura apenas uma noite.\xf000븀\x0000\xfffeAguardamos sua vinda outra vez.
+Oh? Não tens dinheiro o suficiente!\xfffeAguardamos a sua vinda outra vez.
+Custa $1000\xfffepara ir a bordo.\xf000븀\x0000\xfffeQuer ir a bordo?
+Este navio passa pelas grandes pontes de Unova:\xfffeSob a Ponte Seta do Céu,\xf000븁\x0000\xfffeao redor de Ponte Maravilhosa,\xfffee atras da Cidade de Hiun.\xf000븁\x0000\xfffeO tempo de embarque será indicado\xfffepor cinco apitos.\xf000븁\x0000
+Tu podes desfrutar da paisagem passando\xfffepelo famoso deck do Unova Real.\xf000븁\x0000Treinadores gostam de\xfffebatalhar nos quartos.\xf000븁\x0000Podem desfrustar tanto do\xfffecenário quanto das batalhas.\xf000븁\x0000Note que, para evitar interferencia\xfffecom o rádio do navio,\xf000븁\x0000o C-Gear não pode ser usado a bordo.\xf000븀\x0000Obrigado pela sua compreensão.\xf000븁\x0000
+Tem algum problema\xfffeem desligar o C-Gear?
+Nós estaremos a partir em breve.\xfffeTemos que ir!\xf000븁\x0000
+Muito bem, então.\xfffeAguardamos a sua vinda outra vez.
+Obrigado por navegar conosco.\xfffeAguardamos a sua vinda outra vez.
+O cruzeiro de hoje\xfffejá partiu.\xf000븀\x0000\xfffePor favor, volte outra vez amanhã.
+Parabéns!\xf000븁\x0000Tu derrotas-te todos\xfffeos treinadores a bordo!\xf000븁\x0000Por favor, aceite este\xfffepresente de congratulações.\xf000븁\x0000
+O Unova Real\xfffeainda não está aberto para negócios.\xf000븁\x0000Estamos a preparar o navio para ser\xfffeapropriado para os treinadores de poderosos Pokémons.
+Navegar
+Explicação
+Sair
